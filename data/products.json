@@ -5,12 +5,14 @@
     "asin": "B08235BSWG",
     "tagline": "Industrial-grade CO detection you can trust",
     "personalNote": "Needed something I could trust while we were having basement construction.",
-    "category": "Home",
     "image": "/images/products/inspector-2-co-detector.png",
     "affiliateUrl": "https://www.amazon.com/dp/B08235BSWG?tag=justinsfavo09-20",
     "dateAdded": "2026-03-18",
     "purchasedDate": "2026-01-01",
-    "justinsScore": 3
+    "justinsScore": 3,
+    "categories": [
+      "Home"
+    ]
   },
   {
     "id": "lavazza-super-crema-coffee",
@@ -18,12 +20,14 @@
     "asin": "B000SDKDM4",
     "tagline": "Medium espresso roast, Arabica and Robusta blend, 2.2 lb bag",
     "personalNote": "These beans produce the perfect frothy crema when making flat whites with my espresso machine. Smooth, not too bitter.",
-    "category": "Kitchen",
     "image": "/images/products/lavazza-super-crema-coffee.png",
     "affiliateUrl": "https://www.amazon.com/dp/B000SDKDM4?tag=justinsfavo09-20",
     "dateAdded": "2026-03-18",
     "purchasedDate": "2026-01-01",
-    "justinsScore": 8
+    "justinsScore": 8,
+    "categories": [
+      "Home"
+    ]
   },
   {
     "id": "uni-kuru-toga-mechanical-pencil",
@@ -31,12 +35,14 @@
     "asin": "B0D2BLKHVG",
     "tagline": "All-metal body with auto lead rotation, 0.5mm fine point",
     "personalNote": "I was tired of flimsy mechanical pencils and wanted something that felt substantial. This one lives on my desk.",
-    "category": "Office",
     "image": "/images/products/uni-kuru-toga-mechanical-pencil.png",
     "affiliateUrl": "https://www.amazon.com/dp/B0D2BLKHVG?tag=justinsfavo09-20",
     "dateAdded": "2026-03-18",
     "purchasedDate": "2026-01-01",
-    "justinsScore": 9
+    "justinsScore": 9,
+    "categories": [
+      "Work"
+    ]
   },
   {
     "id": "pi-zero-2-wh",
@@ -44,12 +50,14 @@
     "asin": "B0DS68NPGF",
     "tagline": "Quad-core mini computer with pre-soldered header, Wi-Fi, and Bluetooth",
     "personalNote": "I use this for my animated wizard card project inside a Chocolate Frog Tin. Tiny, powerful enough for what I need.",
-    "category": "Tech",
     "image": "/images/products/pi-zero-2-wh.png",
     "affiliateUrl": "https://www.amazon.com/dp/B0DS68NPGF?tag=justinsfavo09-20",
     "dateAdded": "2026-03-18",
     "purchasedDate": "2026-01-01",
-    "justinsScore": 1
+    "justinsScore": 1,
+    "categories": [
+      "Tech"
+    ]
   },
   {
     "id": "tp-link-tl-sg105-gigabit-switch",
@@ -57,12 +65,14 @@
     "asin": "B00A128S24",
     "tagline": "Plug-and-play unmanaged network switch, fanless metal design",
     "personalNote": "Gave me a wired connection for every device in my office. Plug it in and forget about it.",
-    "category": "Tech",
     "image": "/images/products/tp-link-tl-sg105-gigabit-switch.png",
     "affiliateUrl": "https://www.amazon.com/dp/B00A128S24?tag=justinsfavo09-20",
     "dateAdded": "2026-03-18",
     "purchasedDate": "2026-01-01",
-    "justinsScore": 3
+    "justinsScore": 3,
+    "categories": [
+      "Tech"
+    ]
   },
   {
     "id": "jb-weld-superweld-superglue",
@@ -70,12 +80,14 @@
     "asin": "B0C78J2RZG",
     "tagline": "Professional-grade super glue, 20g 2-pack",
     "personalNote": "My go-to super glue for fixing all the kids' broken toys. Strong hold, dries fast.",
-    "category": "Home",
     "image": "/images/products/jb-weld-superweld-superglue.png",
     "affiliateUrl": "https://www.amazon.com/dp/B0C78J2RZG?tag=justinsfavo09-20",
     "dateAdded": "2026-03-18",
     "purchasedDate": "2026-01-01",
-    "justinsScore": 1
+    "justinsScore": 1,
+    "categories": [
+      "Home"
+    ]
   },
   {
     "id": "pisugar-3-power-board",
@@ -83,12 +95,14 @@
     "asin": "B0FB3N1YSK",
     "tagline": "Battery power management for Raspberry Pi Zero W/WH",
     "personalNote": "The easiest way to battery-power my Raspberry Pi projects. I use it for the animated wizard card and other portable builds.",
-    "category": "Tech",
     "image": "/images/products/pisugar-3-power-board.png",
     "affiliateUrl": "https://www.amazon.com/dp/B0FB3N1YSK?tag=justinsfavo09-20",
     "dateAdded": "2026-03-18",
     "purchasedDate": "2026-01-01",
-    "justinsScore": 3
+    "justinsScore": 3,
+    "categories": [
+      "Tech"
+    ]
   },
   {
     "id": "sunlu-ams-heater",
@@ -96,12 +110,14 @@
     "asin": "B0FLP97HMW",
     "tagline": "In-place filament dryer for Bambu Lab AMS, heats to 70\u00b0C",
     "personalNote": "Dries my filament while it sits in the AMS on top of my printer. No more pulling spools out to dry separately.",
-    "category": "3D Printing",
     "image": "/images/products/sunlu-ams-heater.png",
     "affiliateUrl": "https://www.amazon.com/dp/B0FLP97HMW?tag=justinsfavo09-20",
     "dateAdded": "2026-03-18",
     "purchasedDate": "2026-01-01",
-    "justinsScore": 8
+    "justinsScore": 8,
+    "categories": [
+      "Tech"
+    ]
   },
   {
     "id": "fms-land-cruiser-rc-crawler",
@@ -109,12 +125,14 @@
     "asin": "B0CHVFH5M6",
     "tagline": "Toyota-licensed 1/18 scale 4WD rock crawler, ready to run",
     "personalNote": "Got this for my son Chase's ninth birthday. It's been a blast driving around the dirt and construction in our basement.",
-    "category": "Toys",
     "image": "/images/products/fms-land-cruiser-rc-crawler.png",
     "affiliateUrl": "https://www.amazon.com/dp/B0CHVFH5M6?tag=justinsfavo09-20",
     "dateAdded": "2026-03-18",
     "purchasedDate": "2026-01-01",
-    "justinsScore": 9
+    "justinsScore": 9,
+    "categories": [
+      "Kids"
+    ]
   },
   {
     "id": "statik-magstack-usb-c-cable",
@@ -122,12 +140,14 @@
     "asin": "B0D45VR8ZT",
     "tagline": "Magnetic USB-C charging cable, 100W fast charging, 3ft",
     "personalNote": "The magnetic tips keep the cord together when I'm traveling. No more fumbling with wire wraps or tangled cables in my bag.",
-    "category": "Tech",
     "image": "/images/products/statik-magstack-usb-c-cable.png",
     "affiliateUrl": "https://www.amazon.com/dp/B0D45VR8ZT?tag=justinsfavo09-20",
     "dateAdded": "2026-03-18",
     "purchasedDate": "2026-01-01",
-    "justinsScore": 7
+    "justinsScore": 7,
+    "categories": [
+      "Tech"
+    ]
   },
   {
     "id": "philips-hue-white-color-ambiance-2pk",
@@ -135,12 +155,14 @@
     "asin": "B07QV9XB87",
     "tagline": "Smart color-changing 60W equivalent bulb, works with Alexa/Google/HomeKit",
     "personalNote": "I use these lights to mimic the circadian rhythm throughout my house. Crazy, but I like it.",
-    "category": "Smart Home",
     "image": "/images/products/philips-hue-white-color-ambiance-2pk.png",
     "affiliateUrl": "https://www.amazon.com/dp/B07QV9XB87?tag=justinsfavo09-20",
     "dateAdded": "2026-03-18",
     "purchasedDate": "2025-01-01",
-    "justinsScore": 5
+    "justinsScore": 5,
+    "categories": [
+      "Tech"
+    ]
   },
   {
     "id": "pukoko-magnetic-phone-tripod-mount",
@@ -148,12 +170,14 @@
     "asin": "B0DP9DJY5N",
     "tagline": "MagSafe-compatible cold shoe phone holder for cameras and tripods",
     "personalNote": "An easy way for me to connect my iPhone to a tripod.",
-    "category": "Tech",
     "image": "/images/products/pukoko-magnetic-phone-tripod-mount.png",
     "affiliateUrl": "https://www.amazon.com/dp/B0DP9DJY5N?tag=justinsfavo09-20",
     "dateAdded": "2026-03-18",
     "purchasedDate": "2025-01-01",
-    "justinsScore": 5
+    "justinsScore": 5,
+    "categories": [
+      "Tech"
+    ]
   },
   {
     "id": "google-fitbit-ace-lte",
@@ -161,12 +185,14 @@
     "asin": "B0CV5T2YG6",
     "tagline": "Kids smartwatch with calling, messaging, GPS, and activity games",
     "personalNote": "Gave this to my 9 year old to give him some independence. He loves it.",
-    "category": "Kids",
     "image": "/images/products/google-fitbit-ace-lte.png",
     "affiliateUrl": "https://www.amazon.com/dp/B0CV5T2YG6?tag=justinsfavo09-20",
     "dateAdded": "2026-03-18",
     "purchasedDate": "2025-01-01",
-    "justinsScore": 8
+    "justinsScore": 8,
+    "categories": [
+      "Kids"
+    ]
   },
   {
     "id": "delonghi-rivelia-espresso-machine",
@@ -174,12 +200,14 @@
     "asin": "B0FBSP99LX",
     "tagline": "Fully automatic with built-in grinder, milk frother, and bean switch system",
     "personalNote": "Now that I like coffee, this is one of my favorite things. It makes frothy drinks like flat whites and cappuccinos with the milk addon. So easy to use. I can't recommend this enough.",
-    "category": "Kitchen",
     "image": "/images/products/delonghi-rivelia-espresso-machine.png",
     "affiliateUrl": "https://www.amazon.com/dp/B0FBSP99LX?tag=justinsfavo09-20",
     "dateAdded": "2026-03-18",
     "purchasedDate": "2025-01-01",
-    "justinsScore": 10
+    "justinsScore": 10,
+    "categories": [
+      "Home"
+    ]
   },
   {
     "id": "jack-rudy-demerara-syrup",
@@ -187,12 +215,14 @@
     "asin": "B07GX7P1C9",
     "tagline": "Premium amber demerara sugar syrup, 8 oz",
     "personalNote": "This is the premade version of what I use in my espresso martinis.",
-    "category": "Kitchen",
     "image": "/images/products/jack-rudy-demerara-syrup.png",
     "affiliateUrl": "https://www.amazon.com/dp/B07GX7P1C9?tag=justinsfavo09-20",
     "dateAdded": "2026-03-18",
     "purchasedDate": "2025-01-01",
-    "justinsScore": 8
+    "justinsScore": 8,
+    "categories": [
+      "Home"
+    ]
   },
   {
     "id": "india-tree-demerara-sugar",
@@ -200,12 +230,14 @@
     "asin": "B07XGD7G85",
     "tagline": "Unrefined fair trade cane sugar from Mauritius, 1.75 lb",
     "personalNote": "I make a 2 parts sugar to 1 part water solution to use in my espresso martinis.",
-    "category": "Kitchen",
     "image": "/images/products/india-tree-demerara-sugar.png",
     "affiliateUrl": "https://www.amazon.com/dp/B07XGD7G85?tag=justinsfavo09-20",
     "dateAdded": "2026-03-18",
     "purchasedDate": "2025-01-01",
-    "justinsScore": 8
+    "justinsScore": 8,
+    "categories": [
+      "Home"
+    ]
   },
   {
     "id": "xtool-f1-laser-engraver",
@@ -213,12 +245,14 @@
     "asin": "B0D9Q787GN",
     "tagline": "Portable dual-laser engraver with 10,000mm/s speed",
     "personalNote": "This has been fun to learn how to use in my DIY projects.",
-    "category": "Tools",
     "image": "/images/products/xtool-f1-laser-engraver.png",
     "affiliateUrl": "https://www.amazon.com/dp/B0D9Q787GN?tag=justinsfavo09-20",
     "dateAdded": "2026-03-18",
     "purchasedDate": "2025-01-01",
-    "justinsScore": 1
+    "justinsScore": 1,
+    "categories": [
+      "Work"
+    ]
   },
   {
     "id": "craighill-wine-key",
@@ -226,12 +260,14 @@
     "asin": "B0CMV6R14S",
     "tagline": "Premium stainless steel sommelier corkscrew",
     "personalNote": "It's fancy, but it's my favorite wine opener.",
-    "category": "Kitchen",
     "image": "/images/products/craighill-wine-key.png",
     "affiliateUrl": "https://www.amazon.com/dp/B0CMV6R14S?tag=justinsfavo09-20",
     "dateAdded": "2026-03-18",
     "purchasedDate": "2025-01-01",
-    "justinsScore": 8
+    "justinsScore": 8,
+    "categories": [
+      "Home"
+    ]
   },
   {
     "id": "nebula-capsule-3-laser",
@@ -239,12 +275,14 @@
     "asin": "B0BCWNQPQ7",
     "tagline": "Mini smart projector with Google TV, Netflix, Dolby Digital, 120\" screen",
     "personalNote": "This projector is so easy to bring on road trips or set up in the kids' bedroom when friends are over.",
-    "category": "Tech",
     "image": "/images/products/nebula-capsule-3-laser.png",
     "affiliateUrl": "https://www.amazon.com/dp/B0BCWNQPQ7?tag=justinsfavo09-20",
     "dateAdded": "2026-03-18",
     "purchasedDate": "2025-01-01",
-    "justinsScore": 3
+    "justinsScore": 3,
+    "categories": [
+      "Tech"
+    ]
   },
   {
     "id": "murska-brass-ice-scraper",
@@ -252,12 +290,14 @@
     "asin": "B07G5KRHMG",
     "tagline": "European brass-blade car windshield ice scraper",
     "personalNote": "I don't need to scrape ice off the car windshield often, so it's nice to have something small that can just sit in the car door until I need it.",
-    "category": "Auto",
     "image": "/images/products/murska-brass-ice-scraper.png",
     "affiliateUrl": "https://www.amazon.com/dp/B07G5KRHMG?tag=justinsfavo09-20",
     "dateAdded": "2026-03-18",
     "purchasedDate": "2025-01-01",
-    "justinsScore": 9
+    "justinsScore": 9,
+    "categories": [
+      "Travel"
+    ]
   },
   {
     "id": "youngstown-general-utility-gloves",
@@ -265,12 +305,14 @@
     "asin": "B0000950QU",
     "tagline": "Heavy-duty washable mechanic gloves",
     "personalNote": "My go to work gloves.",
-    "category": "Tools",
     "image": "/images/products/youngstown-general-utility-gloves.png",
     "affiliateUrl": "https://www.amazon.com/dp/B0000950QU?tag=justinsfavo09-20",
     "dateAdded": "2026-03-18",
     "purchasedDate": "2025-01-01",
-    "justinsScore": 3
+    "justinsScore": 3,
+    "categories": [
+      "Work"
+    ]
   },
   {
     "id": "fanttik-x8-apex-tire-inflator",
@@ -278,12 +320,14 @@
     "asin": "B09YD2D96V",
     "tagline": "Cordless 150PSI air compressor with LCD screen",
     "personalNote": "I keep one of these in each car in case of a deflated car or bike tire or one of the kids' balls.",
-    "category": "Auto",
     "image": "/images/products/fanttik-x8-apex-tire-inflator.png",
     "affiliateUrl": "https://www.amazon.com/dp/B09YD2D96V?tag=justinsfavo09-20",
     "dateAdded": "2026-03-18",
     "purchasedDate": "2025-01-01",
-    "justinsScore": 7
+    "justinsScore": 7,
+    "categories": [
+      "Travel"
+    ]
   },
   {
     "id": "stm-magpod-tripod",
@@ -291,12 +335,14 @@
     "asin": "B09884PJQV",
     "tagline": "MagSafe-compatible mini tripod and phone stand with retractable legs",
     "personalNote": "Small enough to throw in a bag for family trips when we want to take group photos.",
-    "category": "Tech",
     "image": "/images/products/stm-magpod-tripod.png",
     "affiliateUrl": "https://www.amazon.com/dp/B09884PJQV?tag=justinsfavo09-20",
     "dateAdded": "2026-03-18",
     "purchasedDate": "2024-01-01",
-    "justinsScore": 5
+    "justinsScore": 5,
+    "categories": [
+      "Tech"
+    ]
   },
   {
     "id": "degrees-of-comfort-heated-mattress-pad",
@@ -304,12 +350,14 @@
     "asin": "B07W82BNPT",
     "tagline": "Zone heating electric bed warmer with auto shut-off",
     "personalNote": "I use this so I don't have to get into a cold bed at night in the winter. I set it on a smart plug with a timer connected to Home Assistant.",
-    "category": "Home",
     "image": "/images/products/degrees-of-comfort-heated-mattress-pad.png",
     "affiliateUrl": "https://www.amazon.com/dp/B07W82BNPT?tag=justinsfavo09-20",
     "dateAdded": "2026-03-18",
     "purchasedDate": "2024-01-01",
-    "justinsScore": 9
+    "justinsScore": 9,
+    "categories": [
+      "Home"
+    ]
   },
   {
     "id": "twinkly-400-led-string-lights",
@@ -317,12 +365,14 @@
     "asin": "B086XJFXZH",
     "tagline": "App-controlled 105ft smart string lights with WiFi and music sync",
     "personalNote": "This is what makes my huge front hedge animated for the holidays. It's a lot of lights on the house, but it's a crowd pleaser.",
-    "category": "Smart Home",
     "image": "/images/products/twinkly-400-led-string-lights.png",
     "affiliateUrl": "https://www.amazon.com/dp/B086XJFXZH?tag=justinsfavo09-20",
     "dateAdded": "2026-03-18",
     "purchasedDate": "2024-01-01",
-    "justinsScore": 8
+    "justinsScore": 8,
+    "categories": [
+      "Tech"
+    ]
   },
   {
     "id": "escargots-de-bourgogne-snails",
@@ -330,12 +380,14 @@
     "asin": "B07DWM38ZP",
     "tagline": "Imported premium wild Burgundy escargot, 2 dozen very large",
     "personalNote": "Crazy enough this is where I get my snails for escargot.",
-    "category": "Kitchen",
     "image": "/images/products/escargots-de-bourgogne-snails.png",
     "affiliateUrl": "https://www.amazon.com/dp/B07DWM38ZP?tag=justinsfavo09-20",
     "dateAdded": "2026-03-18",
     "purchasedDate": "2024-01-01",
-    "justinsScore": 8
+    "justinsScore": 8,
+    "categories": [
+      "Home"
+    ]
   },
   {
     "id": "dremel-8250-cordless-rotary-tool",
@@ -343,12 +395,14 @@
     "asin": "B09RKV6RQW",
     "tagline": "Brushless cordless rotary tool with 5 accessories, battery, and charger",
     "personalNote": "Everyone needs a Dremel!",
-    "category": "Tools",
     "image": "/images/products/dremel-8250-cordless-rotary-tool.png",
     "affiliateUrl": "https://www.amazon.com/dp/B09RKV6RQW?tag=justinsfavo09-20",
     "dateAdded": "2026-03-18",
     "purchasedDate": "2024-01-01",
-    "justinsScore": 8
+    "justinsScore": 8,
+    "categories": [
+      "Work"
+    ]
   },
   {
     "id": "key-bak-retractable-keychain",
@@ -356,12 +410,14 @@
     "asin": "B06X6KKMCC",
     "tagline": "Heavy-duty retractable keychain with 36-inch Kevlar cord and belt clip",
     "personalNote": "This is how I like to carry my badge for work.",
-    "category": "Everyday Carry",
     "image": "/images/products/key-bak-retractable-keychain.png",
     "affiliateUrl": "https://www.amazon.com/dp/B06X6KKMCC?tag=justinsfavo09-20",
     "dateAdded": "2026-03-18",
     "purchasedDate": "2024-01-01",
-    "justinsScore": 6
+    "justinsScore": 6,
+    "categories": [
+      "EDC"
+    ]
   },
   {
     "id": "windeck-finger-surfboard",
@@ -369,12 +425,14 @@
     "asin": "B0BMWCFB87",
     "tagline": "Miniature finger surfboard toy for riding the wind",
     "personalNote": "These are genius. You wear them on your finger and ride the wind outside of a moving car window.",
-    "category": "Toys",
     "image": "/images/products/windeck-finger-surfboard.png",
     "affiliateUrl": "https://www.amazon.com/dp/B0BMWCFB87?tag=justinsfavo09-20",
     "dateAdded": "2026-03-18",
     "purchasedDate": "2024-01-01",
-    "justinsScore": 9
+    "justinsScore": 9,
+    "categories": [
+      "Kids"
+    ]
   },
   {
     "id": "nioxin-system-2-shampoo",
@@ -382,12 +440,14 @@
     "asin": "B07JVNY2WM",
     "tagline": "Thickening shampoo for natural hair with progressed thinning",
     "personalNote": "My go to shampoo that tries to keep the hair I have as I get older.",
-    "category": "Personal Care",
     "image": "/images/products/nioxin-system-2-shampoo.png",
     "affiliateUrl": "https://www.amazon.com/dp/B07JVNY2WM?tag=justinsfavo09-20",
     "dateAdded": "2026-03-18",
     "purchasedDate": "2024-01-01",
-    "justinsScore": 2
+    "justinsScore": 2,
+    "categories": [
+      "Home"
+    ]
   },
   {
     "id": "klask-magnetic-board-game",
@@ -395,12 +455,14 @@
     "asin": "B07PKJZQ9G",
     "tagline": "Magnetic wooden tabletop game for 2 players",
     "personalNote": "Love this game. It's like magnetic wooden air hockey.",
-    "category": "Toys",
     "image": "/images/products/klask-magnetic-board-game.png",
     "affiliateUrl": "https://www.amazon.com/dp/B07PKJZQ9G?tag=justinsfavo09-20",
     "dateAdded": "2026-03-18",
     "purchasedDate": "2024-01-01",
-    "justinsScore": 9
+    "justinsScore": 9,
+    "categories": [
+      "Kids"
+    ]
   },
   {
     "id": "ember-temperature-control-mug",
@@ -408,12 +470,14 @@
     "asin": "B07Z5H4TF5",
     "tagline": "App-controlled heated coffee mug, keeps your drink at the perfect temperature",
     "personalNote": "We have given this to everyone we know. Does a great job of keeping that coffee warm to the end.",
-    "category": "Kitchen",
     "image": "/images/products/ember-temperature-control-mug.png",
     "affiliateUrl": "https://www.amazon.com/dp/B07Z5H4TF5?tag=justinsfavo09-20",
     "dateAdded": "2026-03-18",
     "purchasedDate": "2024-01-01",
-    "justinsScore": 8
+    "justinsScore": 8,
+    "categories": [
+      "Home"
+    ]
   },
   {
     "id": "anker-nano-power-bank",
@@ -421,12 +485,15 @@
     "asin": "B0C9X5KSD5",
     "tagline": "Compact 5,000mAh portable charger with foldable USB-C connector",
     "personalNote": "This is what I use to recharge my devices when I travel.",
-    "category": "Tech",
     "image": "/images/products/anker-nano-power-bank.png",
     "affiliateUrl": "https://www.amazon.com/dp/B0C9X5KSD5?tag=justinsfavo09-20",
     "dateAdded": "2026-03-18",
     "purchasedDate": "2024-01-01",
-    "justinsScore": 7
+    "justinsScore": 7,
+    "categories": [
+      "Tech",
+      "Travel"
+    ]
   },
   {
     "id": "goodr-sunglasses",
@@ -434,11 +501,13 @@
     "asin": "B07JL2VNKR",
     "tagline": "Lightweight no-slip polarized sunglasses",
     "personalNote": "My go to cheap sunglasses. Can't have enough of them.",
-    "category": "Everyday Carry",
     "image": "/images/products/goodr-sunglasses.png",
     "affiliateUrl": "https://www.amazon.com/dp/B07JL2VNKR?tag=justinsfavo09-20",
     "dateAdded": "2026-03-18",
     "purchasedDate": "2024-01-01",
-    "justinsScore": 3
+    "justinsScore": 3,
+    "categories": [
+      "EDC"
+    ]
   }
 ]

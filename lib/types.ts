@@ -4,7 +4,7 @@ export interface Product {
   asin: string;
   tagline: string;
   personalNote: string;
-  category: string;
+  categories: string[];
   image: string;
   affiliateUrl: string;
   dateAdded: string;

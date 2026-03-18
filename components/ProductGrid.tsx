@@ -15,7 +15,7 @@ export default function ProductGrid({ products }: ProductGridProps) {
   const [sortBy, setSortBy] = useState<"score" | "newest">("score");
 
   const categories = useMemo(
-    () => Array.from(new Set(products.map((p) => p.category))).sort(),
+    () => Array.from(new Set(products.flatMap((p) => p.categories))).sort(),
     [products]
   );
 
@@ -27,7 +27,7 @@ export default function ProductGrid({ products }: ProductGridProps) {
           field.toLowerCase().includes(searchQuery.toLowerCase())
         );
       const matchesCategory =
-        !activeCategory || p.category === activeCategory;
+        !activeCategory || p.categories.includes(activeCategory);
       return matchesSearch && matchesCategory;
     });
 
@@ -59,30 +59,9 @@ export default function ProductGrid({ products }: ProductGridProps) {
         categories={categories}
         activeCategory={activeCategory}
         onCategoryChange={setActiveCategory}
+        sortBy={sortBy}
+        onSortChange={setSortBy}
       />
-      <div className="mb-6 flex items-center gap-2">
-        <span className="text-xs uppercase tracking-widest text-gray-400 mr-2">Sort</span>
-        <button
-          onClick={() => setSortBy("score")}
-          className={`px-4 py-2 text-xs uppercase tracking-widest font-medium transition-colors ${
-            sortBy === "score"
-              ? "bg-black text-white"
-              : "bg-gray-100 text-gray-700 hover:bg-gray-200"
-          }`}
-        >
-          Score
-        </button>
-        <button
-          onClick={() => setSortBy("newest")}
-          className={`px-4 py-2 text-xs uppercase tracking-widest font-medium transition-colors ${
-            sortBy === "newest"
-              ? "bg-black text-white"
-              : "bg-gray-100 text-gray-700 hover:bg-gray-200"
-          }`}
-        >
-          Newest
-        </button>
-      </div>
       {filtered.length > 0 ? (
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {filtered.map((product, index) => (
