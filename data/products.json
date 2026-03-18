@@ -42,5 +42,16 @@
     "image": "/images/products/yeti-rambler-tumbler.png",
     "affiliateUrl": "https://www.amazon.com/dp/B073WJF1PQ?tag=YOUR_TAG_HERE",
     "dateAdded": "2026-03-18"
+  },
+  {
+    "id": "inspector-2-co-detector",
+    "name": "Inspector 2 Industrial Pro Portable Carbon Monoxide Detector",
+    "asin": "B08235BSWG",
+    "tagline": "Industrial-grade CO detection you can trust",
+    "personalNote": "Needed something I could trust while we were having basement construction.",
+    "category": "Home",
+    "image": "/images/products/inspector-2-co-detector.png",
+    "affiliateUrl": "https://www.amazon.com/dp/B08235BSWG?tag=YOUR_TAG_HERE",
+    "dateAdded": "2026-03-18"
   }
 ]
