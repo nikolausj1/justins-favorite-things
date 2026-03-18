@@ -33,7 +33,6 @@ export default function ProductGrid({ products }: ProductGridProps) {
 
   return (
     <div>
-      {/* Search hidden until product catalog grows
       <SearchFilter
         searchQuery={searchQuery}
         onSearchChange={setSearchQuery}
@@ -41,7 +40,6 @@ export default function ProductGrid({ products }: ProductGridProps) {
         activeCategory={activeCategory}
         onCategoryChange={setActiveCategory}
       />
-      */}
       {filtered.length > 0 ? (
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {filtered.map((product, index) => (

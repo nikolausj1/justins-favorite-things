@@ -15,6 +15,7 @@ export default function SearchFilter({
 }: SearchFilterProps) {
   return (
     <div className="mb-12">
+      {/* Search box hidden until product catalog grows
       <input
         type="text"
         value={searchQuery}
@@ -22,6 +23,7 @@ export default function SearchFilter({
         placeholder="Search products..."
         className="w-full border border-gray-200 px-4 py-3 text-sm text-black placeholder-gray-400 focus:outline-none focus:border-gray-400 transition-colors"
       />
+      */}
       <div className="mt-4 flex flex-wrap gap-2">
         <button
           onClick={() => onCategoryChange(null)}
