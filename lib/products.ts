@@ -6,7 +6,7 @@ export function getProducts(): Product[] {
 }
 
 export function getCategories(products: Product[]): string[] {
-  return Array.from(new Set(products.map((p) => p.category))).sort();
+  return Array.from(new Set(products.flatMap((p) => p.categories))).sort();
 }
 
 export function buildAffiliateUrl(asin: string): string {
