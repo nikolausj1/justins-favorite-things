@@ -12,7 +12,7 @@ interface ProductGridProps {
 export default function ProductGrid({ products }: ProductGridProps) {
   const [searchQuery, setSearchQuery] = useState("");
   const [activeCategory, setActiveCategory] = useState<string | null>(null);
-  const [sortBy, setSortBy] = useState<"score" | "newest">("newest");
+  const [sortBy, setSortBy] = useState<"score" | "newest">("score");
 
   const categories = useMemo(
     () => Array.from(new Set(products.map((p) => p.category))).sort(),
