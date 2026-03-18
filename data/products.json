@@ -53,5 +53,104 @@
     "image": "/images/products/inspector-2-co-detector.png",
     "affiliateUrl": "https://www.amazon.com/dp/B08235BSWG?tag=YOUR_TAG_HERE",
     "dateAdded": "2026-03-18"
+  },
+  {
+    "id": "lavazza-super-crema-coffee",
+    "name": "Lavazza Super Crema Whole Bean Coffee",
+    "asin": "B000SDKDM4",
+    "tagline": "Medium espresso roast, Arabica and Robusta blend, 2.2 lb bag",
+    "personalNote": "These beans produce the perfect frothy crema when making flat whites with my espresso machine. Smooth, not too bitter, and the 2.2 lb bag lasts a while.",
+    "category": "Kitchen",
+    "image": "/images/products/lavazza-super-crema-coffee.png",
+    "affiliateUrl": "https://www.amazon.com/dp/B000SDKDM4?tag=YOUR_TAG_HERE",
+    "dateAdded": "2026-03-18"
+  },
+  {
+    "id": "uni-kuru-toga-mechanical-pencil",
+    "name": "Uni Kuru Toga Metal Mechanical Pencil",
+    "asin": "B0D2BLKHVG",
+    "tagline": "All-metal body with auto lead rotation, 0.5mm fine point",
+    "personalNote": "I was tired of flimsy mechanical pencils and wanted something that felt substantial. This one lives on my desk — the auto-rotating lead keeps a sharp point without any effort.",
+    "category": "Office",
+    "image": "/images/products/uni-kuru-toga-mechanical-pencil.png",
+    "affiliateUrl": "https://www.amazon.com/dp/B0D2BLKHVG?tag=YOUR_TAG_HERE",
+    "dateAdded": "2026-03-18"
+  },
+  {
+    "id": "pi-zero-2-wh",
+    "name": "Raspberry Pi Zero 2 WH",
+    "asin": "B0DS68NPGF",
+    "tagline": "Quad-core mini computer with pre-soldered header, Wi-Fi, and Bluetooth",
+    "personalNote": "I use this for my animated wizard card project inside a Chocolate Frog Tin. Tiny, powerful enough for what I need, and the pre-soldered header saves a ton of hassle.",
+    "category": "Tech",
+    "image": "/images/products/pi-zero-2-wh.png",
+    "affiliateUrl": "https://www.amazon.com/dp/B0DS68NPGF?tag=YOUR_TAG_HERE",
+    "dateAdded": "2026-03-18"
+  },
+  {
+    "id": "tp-link-tl-sg105-gigabit-switch",
+    "name": "TP-Link TL-SG105 5-Port Gigabit Switch",
+    "asin": "B00A128S24",
+    "tagline": "Plug-and-play unmanaged network switch, fanless metal design",
+    "personalNote": "Gave me a wired connection for every device in my office. Plug it in and forget about it — no configuration, no fan noise, just works.",
+    "category": "Tech",
+    "image": "/images/products/tp-link-tl-sg105-gigabit-switch.png",
+    "affiliateUrl": "https://www.amazon.com/dp/B00A128S24?tag=YOUR_TAG_HERE",
+    "dateAdded": "2026-03-18"
+  },
+  {
+    "id": "jb-weld-superweld-superglue",
+    "name": "J-B Weld SuperWeld Superglue",
+    "asin": "B0C78J2RZG",
+    "tagline": "Professional-grade super glue, 20g 2-pack",
+    "personalNote": "My go-to super glue for fixing all the kids' broken toys. Strong hold, dries fast, and the two-pack means I always have a backup when one runs out.",
+    "category": "Home",
+    "image": "/images/products/jb-weld-superweld-superglue.png",
+    "affiliateUrl": "https://www.amazon.com/dp/B0C78J2RZG?tag=YOUR_TAG_HERE",
+    "dateAdded": "2026-03-18"
+  },
+  {
+    "id": "pisugar-3-power-board",
+    "name": "PiSugar 3 Portable Power Board",
+    "asin": "B0FB3N1YSK",
+    "tagline": "Battery power management for Raspberry Pi Zero W/WH",
+    "personalNote": "The easiest way to battery-power my Raspberry Pi projects. I use it for the animated wizard card and other portable builds — just snap it on and go.",
+    "category": "Tech",
+    "image": "/images/products/pisugar-3-power-board.png",
+    "affiliateUrl": "https://www.amazon.com/dp/B0FB3N1YSK?tag=YOUR_TAG_HERE",
+    "dateAdded": "2026-03-18"
+  },
+  {
+    "id": "sunlu-ams-heater",
+    "name": "SUNLU AMS Heater for Bambu Lab",
+    "asin": "B0FLP97HMW",
+    "tagline": "In-place filament dryer for Bambu Lab AMS, heats to 70°C",
+    "personalNote": "Dries my filament while it sits in the AMS on top of my printer — no more pulling spools out to dry separately. Print quality improved noticeably after installing this.",
+    "category": "3D Printing",
+    "image": "/images/products/sunlu-ams-heater.png",
+    "affiliateUrl": "https://www.amazon.com/dp/B0FLP97HMW?tag=YOUR_TAG_HERE",
+    "dateAdded": "2026-03-18"
+  },
+  {
+    "id": "fms-land-cruiser-rc-crawler",
+    "name": "FMS 1/18 Land Cruiser LC80 RC Crawler",
+    "asin": "B0CHVFH5M6",
+    "tagline": "Toyota-licensed 1/18 scale 4WD rock crawler, ready to run",
+    "personalNote": "Got this for my son Chase's ninth birthday. It's been a blast driving around the dirt and construction in our basement. Surprisingly capable for its size.",
+    "category": "Toys",
+    "image": "/images/products/fms-land-cruiser-rc-crawler.png",
+    "affiliateUrl": "https://www.amazon.com/dp/B0CHVFH5M6?tag=YOUR_TAG_HERE",
+    "dateAdded": "2026-03-18"
+  },
+  {
+    "id": "statik-magstack-usb-c-cable",
+    "name": "Statik MagStack Pro USB-C Cable",
+    "asin": "B0D45VR8ZT",
+    "tagline": "Magnetic USB-C charging cable, 100W fast charging, 3ft",
+    "personalNote": "The magnetic tips keep the cord together when I'm traveling — no more fumbling with wire wraps or tangled cables in my bag. 100W charging is a nice bonus.",
+    "category": "Tech",
+    "image": "/images/products/statik-magstack-usb-c-cable.png",
+    "affiliateUrl": "https://www.amazon.com/dp/B0D45VR8ZT?tag=YOUR_TAG_HERE",
+    "dateAdded": "2026-03-18"
   }
 ]
