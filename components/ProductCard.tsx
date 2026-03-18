@@ -10,13 +10,12 @@ interface ProductCardProps {
 export default function ProductCard({ product, priority }: ProductCardProps) {
   return (
     <article className="bg-white border border-gray-100 flex flex-col transition-all duration-200 hover:-translate-y-1 hover:shadow-lg">
-      <div className="relative aspect-square bg-gray-50 p-8 flex items-center justify-center">
+      <div className="relative aspect-square bg-gray-50 overflow-hidden">
         <Image
           src={product.image}
           alt={product.name}
-          width={400}
-          height={400}
-          className="object-contain w-full h-full"
+          fill
+          className="object-contain p-8"
           priority={priority}
           sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
         />

@@ -1,49 +1,5 @@
 [
   {
-    "id": "breville-barista-express",
-    "name": "Breville Barista Express Espresso Machine",
-    "asin": "B00CH9QWOU",
-    "tagline": "The best home espresso machine under $700",
-    "personalNote": "I've made over 1,000 lattes on this thing. It paid for itself in 3 months vs. buying coffee out. The built-in grinder is a game changer.",
-    "category": "Kitchen",
-    "image": "/images/products/breville-barista-express.png",
-    "affiliateUrl": "https://www.amazon.com/dp/B00CH9QWOU?tag=YOUR_TAG_HERE",
-    "dateAdded": "2026-03-18"
-  },
-  {
-    "id": "sony-wh1000xm5",
-    "name": "Sony WH-1000XM5 Noise Cancelling Headphones",
-    "asin": "B0BX2L8PBT",
-    "tagline": "The gold standard for noise cancelling headphones",
-    "personalNote": "I wear these every single day. The noise cancelling is unreal — I can't work without them. Comfortable enough for 8+ hour sessions.",
-    "category": "Audio",
-    "image": "/images/products/sony-wh1000xm5.png",
-    "affiliateUrl": "https://www.amazon.com/dp/B0BX2L8PBT?tag=YOUR_TAG_HERE",
-    "dateAdded": "2026-03-18"
-  },
-  {
-    "id": "anker-usb-c-hub",
-    "name": "Anker 7-in-1 USB-C Hub",
-    "asin": "B07ZVKTP53",
-    "tagline": "The only dongle you need for your MacBook",
-    "personalNote": "Tiny, reliable, and has every port I need. HDMI, USB-A, SD card, and passthrough charging. Lives permanently in my laptop bag.",
-    "category": "Tech",
-    "image": "/images/products/anker-usb-c-hub.png",
-    "affiliateUrl": "https://www.amazon.com/dp/B07ZVKTP53?tag=YOUR_TAG_HERE",
-    "dateAdded": "2026-03-18"
-  },
-  {
-    "id": "yeti-rambler-tumbler",
-    "name": "YETI Rambler 20 oz Tumbler",
-    "asin": "B073WJF1PQ",
-    "tagline": "Keeps coffee hot for hours, survives everything",
-    "personalNote": "I've dropped this thing on concrete, left it in the car overnight in winter, and it still keeps my coffee hot for 6+ hours. Indestructible.",
-    "category": "Kitchen",
-    "image": "/images/products/yeti-rambler-tumbler.png",
-    "affiliateUrl": "https://www.amazon.com/dp/B073WJF1PQ?tag=YOUR_TAG_HERE",
-    "dateAdded": "2026-03-18"
-  },
-  {
     "id": "inspector-2-co-detector",
     "name": "Inspector 2 Industrial Pro Portable Carbon Monoxide Detector",
     "asin": "B08235BSWG",
