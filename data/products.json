@@ -240,5 +240,137 @@
     "image": "/images/products/fanttik-x8-apex-tire-inflator.png",
     "affiliateUrl": "https://www.amazon.com/dp/B09YD2D96V?tag=justinsfavo09-20",
     "dateAdded": "2026-03-18"
+  },
+  {
+    "id": "stm-magpod-tripod",
+    "name": "STM MagPod MagSafe Tripod",
+    "asin": "B09884PJQV",
+    "tagline": "MagSafe-compatible mini tripod and phone stand with retractable legs",
+    "personalNote": "Small enough to throw in a bag for family trips when we want to take group photos.",
+    "category": "Tech",
+    "image": "/images/products/stm-magpod-tripod.png",
+    "affiliateUrl": "https://www.amazon.com/dp/B09884PJQV?tag=justinsfavo09-20",
+    "dateAdded": "2026-03-18"
+  },
+  {
+    "id": "degrees-of-comfort-heated-mattress-pad",
+    "name": "Degrees of Comfort Heated Mattress Pad",
+    "asin": "B07W82BNPT",
+    "tagline": "Zone heating electric bed warmer with auto shut-off",
+    "personalNote": "I use this so I don't have to get into a cold bed at night in the winter. I set it on a smart plug with a timer connected to Home Assistant.",
+    "category": "Home",
+    "image": "/images/products/degrees-of-comfort-heated-mattress-pad.png",
+    "affiliateUrl": "https://www.amazon.com/dp/B07W82BNPT?tag=justinsfavo09-20",
+    "dateAdded": "2026-03-18"
+  },
+  {
+    "id": "twinkly-400-led-string-lights",
+    "name": "Twinkly 400 RGB+W Smart LED String Lights",
+    "asin": "B086XJFXZH",
+    "tagline": "App-controlled 105ft smart string lights with WiFi and music sync",
+    "personalNote": "This is what makes my huge front hedge animated for the holidays. It's a lot of lights on the house, but it's a crowd pleaser.",
+    "category": "Smart Home",
+    "image": "/images/products/twinkly-400-led-string-lights.png",
+    "affiliateUrl": "https://www.amazon.com/dp/B086XJFXZH?tag=justinsfavo09-20",
+    "dateAdded": "2026-03-18"
+  },
+  {
+    "id": "escargots-de-bourgogne-snails",
+    "name": "Escargots de Bourgogne Premium Wild Burgundy Snails",
+    "asin": "B07DWM38ZP",
+    "tagline": "Imported premium wild Burgundy escargot, 2 dozen very large",
+    "personalNote": "Crazy enough this is where I get my snails for escargot.",
+    "category": "Kitchen",
+    "image": "/images/products/escargots-de-bourgogne-snails.png",
+    "affiliateUrl": "https://www.amazon.com/dp/B07DWM38ZP?tag=justinsfavo09-20",
+    "dateAdded": "2026-03-18"
+  },
+  {
+    "id": "dremel-8250-cordless-rotary-tool",
+    "name": "Dremel 8250 12V Cordless Rotary Tool Kit",
+    "asin": "B09RKV6RQW",
+    "tagline": "Brushless cordless rotary tool with 5 accessories, battery, and charger",
+    "personalNote": "Everyone needs a Dremel!",
+    "category": "Tools",
+    "image": "/images/products/dremel-8250-cordless-rotary-tool.png",
+    "affiliateUrl": "https://www.amazon.com/dp/B09RKV6RQW?tag=justinsfavo09-20",
+    "dateAdded": "2026-03-18"
+  },
+  {
+    "id": "key-bak-retractable-keychain",
+    "name": "KEY-BAK Original SD Retractable Keychain",
+    "asin": "B06X6KKMCC",
+    "tagline": "Heavy-duty retractable keychain with 36-inch Kevlar cord and belt clip",
+    "personalNote": "This is how I like to carry my badge for work.",
+    "category": "Everyday Carry",
+    "image": "/images/products/key-bak-retractable-keychain.png",
+    "affiliateUrl": "https://www.amazon.com/dp/B06X6KKMCC?tag=justinsfavo09-20",
+    "dateAdded": "2026-03-18"
+  },
+  {
+    "id": "windeck-finger-surfboard",
+    "name": "Windeck Finger Surfboard",
+    "asin": "B0BMWCFB87",
+    "tagline": "Miniature finger surfboard toy for riding the wind",
+    "personalNote": "These are genius. You wear them on your finger and ride the wind outside of a moving car window.",
+    "category": "Toys",
+    "image": "/images/products/windeck-finger-surfboard.png",
+    "affiliateUrl": "https://www.amazon.com/dp/B0BMWCFB87?tag=justinsfavo09-20",
+    "dateAdded": "2026-03-18"
+  },
+  {
+    "id": "nioxin-system-2-shampoo",
+    "name": "Nioxin System 2 Cleanser Shampoo",
+    "asin": "B07JVNY2WM",
+    "tagline": "Thickening shampoo for natural hair with progressed thinning",
+    "personalNote": "My go to shampoo that tries to keep the hair I have as I get older.",
+    "category": "Personal Care",
+    "image": "/images/products/nioxin-system-2-shampoo.png",
+    "affiliateUrl": "https://www.amazon.com/dp/B07JVNY2WM?tag=justinsfavo09-20",
+    "dateAdded": "2026-03-18"
+  },
+  {
+    "id": "klask-magnetic-board-game",
+    "name": "KLASK Magnetic Board Game",
+    "asin": "B07PKJZQ9G",
+    "tagline": "Magnetic wooden tabletop game for 2 players",
+    "personalNote": "Love this game. It's like magnetic wooden air hockey.",
+    "category": "Toys",
+    "image": "/images/products/klask-magnetic-board-game.png",
+    "affiliateUrl": "https://www.amazon.com/dp/B07PKJZQ9G?tag=justinsfavo09-20",
+    "dateAdded": "2026-03-18"
+  },
+  {
+    "id": "ember-temperature-control-mug",
+    "name": "Ember Temperature Control Smart Mug",
+    "asin": "B07Z5H4TF5",
+    "tagline": "App-controlled heated coffee mug, keeps your drink at the perfect temperature",
+    "personalNote": "We have given this to everyone we know. Does a great job of keeping that coffee warm to the end.",
+    "category": "Kitchen",
+    "image": "/images/products/ember-temperature-control-mug.png",
+    "affiliateUrl": "https://www.amazon.com/dp/B07Z5H4TF5?tag=justinsfavo09-20",
+    "dateAdded": "2026-03-18"
+  },
+  {
+    "id": "anker-nano-power-bank",
+    "name": "Anker Nano Power Bank with Built-in USB-C",
+    "asin": "B0C9X5KSD5",
+    "tagline": "Compact 5,000mAh portable charger with foldable USB-C connector",
+    "personalNote": "This is what I use to recharge my devices when I travel.",
+    "category": "Tech",
+    "image": "/images/products/anker-nano-power-bank.png",
+    "affiliateUrl": "https://www.amazon.com/dp/B0C9X5KSD5?tag=justinsfavo09-20",
+    "dateAdded": "2026-03-18"
+  },
+  {
+    "id": "goodr-sunglasses",
+    "name": "Goodr OG Polarized Sunglasses",
+    "asin": "B07JL2VNKR",
+    "tagline": "Lightweight no-slip polarized sunglasses",
+    "personalNote": "My go to cheap sunglasses. Can't have enough of them.",
+    "category": "Everyday Carry",
+    "image": "/images/products/goodr-sunglasses.png",
+    "affiliateUrl": "https://www.amazon.com/dp/B07JL2VNKR?tag=justinsfavo09-20",
+    "dateAdded": "2026-03-18"
   }
 ]
