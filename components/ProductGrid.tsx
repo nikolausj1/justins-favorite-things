@@ -12,6 +12,7 @@ interface ProductGridProps {
 export default function ProductGrid({ products }: ProductGridProps) {
   const [searchQuery, setSearchQuery] = useState("");
   const [activeCategory, setActiveCategory] = useState<string | null>(null);
+  const [sortBy, setSortBy] = useState<"score" | "newest">("newest");
 
   const categories = useMemo(
     () => Array.from(new Set(products.map((p) => p.category))).sort(),
@@ -19,7 +20,7 @@ export default function ProductGrid({ products }: ProductGridProps) {
   );
 
   const filtered = useMemo(() => {
-    return products.filter((p) => {
+    const matched = products.filter((p) => {
       const matchesSearch =
         !searchQuery ||
         [p.name, p.tagline, p.personalNote].some((field) =>
@@ -29,7 +30,26 @@ export default function ProductGrid({ products }: ProductGridProps) {
         !activeCategory || p.category === activeCategory;
       return matchesSearch && matchesCategory;
     });
-  }, [products, searchQuery, activeCategory]);
+
+    if (sortBy === "score") {
+      return [...matched].sort((a, b) => {
+        // Unrated (0) goes to bottom
+        if (a.justinsScore === 0 && b.justinsScore === 0) {
+          return b.dateAdded.localeCompare(a.dateAdded);
+        }
+        if (a.justinsScore === 0) return 1;
+        if (b.justinsScore === 0) return -1;
+        // Higher score first, then newer first as tiebreaker
+        if (b.justinsScore !== a.justinsScore) {
+          return b.justinsScore - a.justinsScore;
+        }
+        return b.dateAdded.localeCompare(a.dateAdded);
+      });
+    }
+
+    // Newest first
+    return [...matched].sort((a, b) => b.dateAdded.localeCompare(a.dateAdded));
+  }, [products, searchQuery, activeCategory, sortBy]);
 
   return (
     <div>
@@ -40,6 +60,29 @@ export default function ProductGrid({ products }: ProductGridProps) {
         activeCategory={activeCategory}
         onCategoryChange={setActiveCategory}
       />
+      <div className="mb-6 flex items-center gap-2">
+        <span className="text-xs uppercase tracking-widest text-gray-400 mr-2">Sort</span>
+        <button
+          onClick={() => setSortBy("score")}
+          className={`px-4 py-2 text-xs uppercase tracking-widest font-medium transition-colors ${
+            sortBy === "score"
+              ? "bg-black text-white"
+              : "bg-gray-100 text-gray-700 hover:bg-gray-200"
+          }`}
+        >
+          Score
+        </button>
+        <button
+          onClick={() => setSortBy("newest")}
+          className={`px-4 py-2 text-xs uppercase tracking-widest font-medium transition-colors ${
+            sortBy === "newest"
+              ? "bg-black text-white"
+              : "bg-gray-100 text-gray-700 hover:bg-gray-200"
+          }`}
+        >
+          Newest
+        </button>
+      </div>
       {filtered.length > 0 ? (
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {filtered.map((product, index) => (

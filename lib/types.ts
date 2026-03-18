@@ -8,4 +8,6 @@ export interface Product {
   image: string;
   affiliateUrl: string;
   dateAdded: string;
+  purchasedDate: string;
+  justinsScore: number;
 }

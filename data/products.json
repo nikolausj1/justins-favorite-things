@@ -8,7 +8,9 @@
     "category": "Home",
     "image": "/images/products/inspector-2-co-detector.png",
     "affiliateUrl": "https://www.amazon.com/dp/B08235BSWG?tag=justinsfavo09-20",
-    "dateAdded": "2026-03-18"
+    "dateAdded": "2026-03-18",
+    "purchasedDate": "2026-01-01",
+    "justinsScore": 0
   },
   {
     "id": "lavazza-super-crema-coffee",
@@ -19,7 +21,9 @@
     "category": "Kitchen",
     "image": "/images/products/lavazza-super-crema-coffee.png",
     "affiliateUrl": "https://www.amazon.com/dp/B000SDKDM4?tag=justinsfavo09-20",
-    "dateAdded": "2026-03-18"
+    "dateAdded": "2026-03-18",
+    "purchasedDate": "2026-01-01",
+    "justinsScore": 0
   },
   {
     "id": "uni-kuru-toga-mechanical-pencil",
@@ -30,7 +34,9 @@
     "category": "Office",
     "image": "/images/products/uni-kuru-toga-mechanical-pencil.png",
     "affiliateUrl": "https://www.amazon.com/dp/B0D2BLKHVG?tag=justinsfavo09-20",
-    "dateAdded": "2026-03-18"
+    "dateAdded": "2026-03-18",
+    "purchasedDate": "2026-01-01",
+    "justinsScore": 0
   },
   {
     "id": "pi-zero-2-wh",
@@ -41,7 +47,9 @@
     "category": "Tech",
     "image": "/images/products/pi-zero-2-wh.png",
     "affiliateUrl": "https://www.amazon.com/dp/B0DS68NPGF?tag=justinsfavo09-20",
-    "dateAdded": "2026-03-18"
+    "dateAdded": "2026-03-18",
+    "purchasedDate": "2026-01-01",
+    "justinsScore": 0
   },
   {
     "id": "tp-link-tl-sg105-gigabit-switch",
@@ -52,7 +60,9 @@
     "category": "Tech",
     "image": "/images/products/tp-link-tl-sg105-gigabit-switch.png",
     "affiliateUrl": "https://www.amazon.com/dp/B00A128S24?tag=justinsfavo09-20",
-    "dateAdded": "2026-03-18"
+    "dateAdded": "2026-03-18",
+    "purchasedDate": "2026-01-01",
+    "justinsScore": 0
   },
   {
     "id": "jb-weld-superweld-superglue",
@@ -63,7 +73,9 @@
     "category": "Home",
     "image": "/images/products/jb-weld-superweld-superglue.png",
     "affiliateUrl": "https://www.amazon.com/dp/B0C78J2RZG?tag=justinsfavo09-20",
-    "dateAdded": "2026-03-18"
+    "dateAdded": "2026-03-18",
+    "purchasedDate": "2026-01-01",
+    "justinsScore": 0
   },
   {
     "id": "pisugar-3-power-board",
@@ -74,18 +86,22 @@
     "category": "Tech",
     "image": "/images/products/pisugar-3-power-board.png",
     "affiliateUrl": "https://www.amazon.com/dp/B0FB3N1YSK?tag=justinsfavo09-20",
-    "dateAdded": "2026-03-18"
+    "dateAdded": "2026-03-18",
+    "purchasedDate": "2026-01-01",
+    "justinsScore": 0
   },
   {
     "id": "sunlu-ams-heater",
     "name": "SUNLU AMS Heater for Bambu Lab",
     "asin": "B0FLP97HMW",
-    "tagline": "In-place filament dryer for Bambu Lab AMS, heats to 70°C",
+    "tagline": "In-place filament dryer for Bambu Lab AMS, heats to 70\u00b0C",
     "personalNote": "Dries my filament while it sits in the AMS on top of my printer. No more pulling spools out to dry separately.",
     "category": "3D Printing",
     "image": "/images/products/sunlu-ams-heater.png",
     "affiliateUrl": "https://www.amazon.com/dp/B0FLP97HMW?tag=justinsfavo09-20",
-    "dateAdded": "2026-03-18"
+    "dateAdded": "2026-03-18",
+    "purchasedDate": "2026-01-01",
+    "justinsScore": 0
   },
   {
     "id": "fms-land-cruiser-rc-crawler",
@@ -96,7 +112,9 @@
     "category": "Toys",
     "image": "/images/products/fms-land-cruiser-rc-crawler.png",
     "affiliateUrl": "https://www.amazon.com/dp/B0CHVFH5M6?tag=justinsfavo09-20",
-    "dateAdded": "2026-03-18"
+    "dateAdded": "2026-03-18",
+    "purchasedDate": "2026-01-01",
+    "justinsScore": 0
   },
   {
     "id": "statik-magstack-usb-c-cable",
@@ -107,7 +125,9 @@
     "category": "Tech",
     "image": "/images/products/statik-magstack-usb-c-cable.png",
     "affiliateUrl": "https://www.amazon.com/dp/B0D45VR8ZT?tag=justinsfavo09-20",
-    "dateAdded": "2026-03-18"
+    "dateAdded": "2026-03-18",
+    "purchasedDate": "2026-01-01",
+    "justinsScore": 0
   },
   {
     "id": "philips-hue-white-color-ambiance-2pk",
@@ -118,7 +138,9 @@
     "category": "Smart Home",
     "image": "/images/products/philips-hue-white-color-ambiance-2pk.png",
     "affiliateUrl": "https://www.amazon.com/dp/B07QV9XB87?tag=justinsfavo09-20",
-    "dateAdded": "2026-03-18"
+    "dateAdded": "2026-03-18",
+    "purchasedDate": "2025-01-01",
+    "justinsScore": 0
   },
   {
     "id": "pukoko-magnetic-phone-tripod-mount",
@@ -129,7 +151,9 @@
     "category": "Tech",
     "image": "/images/products/pukoko-magnetic-phone-tripod-mount.png",
     "affiliateUrl": "https://www.amazon.com/dp/B0DP9DJY5N?tag=justinsfavo09-20",
-    "dateAdded": "2026-03-18"
+    "dateAdded": "2026-03-18",
+    "purchasedDate": "2025-01-01",
+    "justinsScore": 0
   },
   {
     "id": "google-fitbit-ace-lte",
@@ -140,7 +164,9 @@
     "category": "Kids",
     "image": "/images/products/google-fitbit-ace-lte.png",
     "affiliateUrl": "https://www.amazon.com/dp/B0CV5T2YG6?tag=justinsfavo09-20",
-    "dateAdded": "2026-03-18"
+    "dateAdded": "2026-03-18",
+    "purchasedDate": "2025-01-01",
+    "justinsScore": 0
   },
   {
     "id": "delonghi-rivelia-espresso-machine",
@@ -151,7 +177,9 @@
     "category": "Kitchen",
     "image": "/images/products/delonghi-rivelia-espresso-machine.png",
     "affiliateUrl": "https://www.amazon.com/dp/B0FBSP99LX?tag=justinsfavo09-20",
-    "dateAdded": "2026-03-18"
+    "dateAdded": "2026-03-18",
+    "purchasedDate": "2025-01-01",
+    "justinsScore": 0
   },
   {
     "id": "jack-rudy-demerara-syrup",
@@ -162,7 +190,9 @@
     "category": "Kitchen",
     "image": "/images/products/jack-rudy-demerara-syrup.png",
     "affiliateUrl": "https://www.amazon.com/dp/B07GX7P1C9?tag=justinsfavo09-20",
-    "dateAdded": "2026-03-18"
+    "dateAdded": "2026-03-18",
+    "purchasedDate": "2025-01-01",
+    "justinsScore": 0
   },
   {
     "id": "india-tree-demerara-sugar",
@@ -173,7 +203,9 @@
     "category": "Kitchen",
     "image": "/images/products/india-tree-demerara-sugar.png",
     "affiliateUrl": "https://www.amazon.com/dp/B07XGD7G85?tag=justinsfavo09-20",
-    "dateAdded": "2026-03-18"
+    "dateAdded": "2026-03-18",
+    "purchasedDate": "2025-01-01",
+    "justinsScore": 0
   },
   {
     "id": "xtool-f1-laser-engraver",
@@ -184,7 +216,9 @@
     "category": "Tools",
     "image": "/images/products/xtool-f1-laser-engraver.png",
     "affiliateUrl": "https://www.amazon.com/dp/B0D9Q787GN?tag=justinsfavo09-20",
-    "dateAdded": "2026-03-18"
+    "dateAdded": "2026-03-18",
+    "purchasedDate": "2025-01-01",
+    "justinsScore": 0
   },
   {
     "id": "craighill-wine-key",
@@ -195,7 +229,9 @@
     "category": "Kitchen",
     "image": "/images/products/craighill-wine-key.png",
     "affiliateUrl": "https://www.amazon.com/dp/B0CMV6R14S?tag=justinsfavo09-20",
-    "dateAdded": "2026-03-18"
+    "dateAdded": "2026-03-18",
+    "purchasedDate": "2025-01-01",
+    "justinsScore": 0
   },
   {
     "id": "nebula-capsule-3-laser",
@@ -206,7 +242,9 @@
     "category": "Tech",
     "image": "/images/products/nebula-capsule-3-laser.png",
     "affiliateUrl": "https://www.amazon.com/dp/B0BCWNQPQ7?tag=justinsfavo09-20",
-    "dateAdded": "2026-03-18"
+    "dateAdded": "2026-03-18",
+    "purchasedDate": "2025-01-01",
+    "justinsScore": 0
   },
   {
     "id": "murska-brass-ice-scraper",
@@ -217,7 +255,9 @@
     "category": "Auto",
     "image": "/images/products/murska-brass-ice-scraper.png",
     "affiliateUrl": "https://www.amazon.com/dp/B07G5KRHMG?tag=justinsfavo09-20",
-    "dateAdded": "2026-03-18"
+    "dateAdded": "2026-03-18",
+    "purchasedDate": "2025-01-01",
+    "justinsScore": 0
   },
   {
     "id": "youngstown-general-utility-gloves",
@@ -228,7 +268,9 @@
     "category": "Tools",
     "image": "/images/products/youngstown-general-utility-gloves.png",
     "affiliateUrl": "https://www.amazon.com/dp/B0000950QU?tag=justinsfavo09-20",
-    "dateAdded": "2026-03-18"
+    "dateAdded": "2026-03-18",
+    "purchasedDate": "2025-01-01",
+    "justinsScore": 0
   },
   {
     "id": "fanttik-x8-apex-tire-inflator",
@@ -239,7 +281,9 @@
     "category": "Auto",
     "image": "/images/products/fanttik-x8-apex-tire-inflator.png",
     "affiliateUrl": "https://www.amazon.com/dp/B09YD2D96V?tag=justinsfavo09-20",
-    "dateAdded": "2026-03-18"
+    "dateAdded": "2026-03-18",
+    "purchasedDate": "2025-01-01",
+    "justinsScore": 0
   },
   {
     "id": "stm-magpod-tripod",
@@ -250,7 +294,9 @@
     "category": "Tech",
     "image": "/images/products/stm-magpod-tripod.png",
     "affiliateUrl": "https://www.amazon.com/dp/B09884PJQV?tag=justinsfavo09-20",
-    "dateAdded": "2026-03-18"
+    "dateAdded": "2026-03-18",
+    "purchasedDate": "2024-01-01",
+    "justinsScore": 0
   },
   {
     "id": "degrees-of-comfort-heated-mattress-pad",
@@ -261,7 +307,9 @@
     "category": "Home",
     "image": "/images/products/degrees-of-comfort-heated-mattress-pad.png",
     "affiliateUrl": "https://www.amazon.com/dp/B07W82BNPT?tag=justinsfavo09-20",
-    "dateAdded": "2026-03-18"
+    "dateAdded": "2026-03-18",
+    "purchasedDate": "2024-01-01",
+    "justinsScore": 0
   },
   {
     "id": "twinkly-400-led-string-lights",
@@ -272,7 +320,9 @@
     "category": "Smart Home",
     "image": "/images/products/twinkly-400-led-string-lights.png",
     "affiliateUrl": "https://www.amazon.com/dp/B086XJFXZH?tag=justinsfavo09-20",
-    "dateAdded": "2026-03-18"
+    "dateAdded": "2026-03-18",
+    "purchasedDate": "2024-01-01",
+    "justinsScore": 0
   },
   {
     "id": "escargots-de-bourgogne-snails",
@@ -283,7 +333,9 @@
     "category": "Kitchen",
     "image": "/images/products/escargots-de-bourgogne-snails.png",
     "affiliateUrl": "https://www.amazon.com/dp/B07DWM38ZP?tag=justinsfavo09-20",
-    "dateAdded": "2026-03-18"
+    "dateAdded": "2026-03-18",
+    "purchasedDate": "2024-01-01",
+    "justinsScore": 0
   },
   {
     "id": "dremel-8250-cordless-rotary-tool",
@@ -294,7 +346,9 @@
     "category": "Tools",
     "image": "/images/products/dremel-8250-cordless-rotary-tool.png",
     "affiliateUrl": "https://www.amazon.com/dp/B09RKV6RQW?tag=justinsfavo09-20",
-    "dateAdded": "2026-03-18"
+    "dateAdded": "2026-03-18",
+    "purchasedDate": "2024-01-01",
+    "justinsScore": 0
   },
   {
     "id": "key-bak-retractable-keychain",
@@ -305,7 +359,9 @@
     "category": "Everyday Carry",
     "image": "/images/products/key-bak-retractable-keychain.png",
     "affiliateUrl": "https://www.amazon.com/dp/B06X6KKMCC?tag=justinsfavo09-20",
-    "dateAdded": "2026-03-18"
+    "dateAdded": "2026-03-18",
+    "purchasedDate": "2024-01-01",
+    "justinsScore": 0
   },
   {
     "id": "windeck-finger-surfboard",
@@ -316,7 +372,9 @@
     "category": "Toys",
     "image": "/images/products/windeck-finger-surfboard.png",
     "affiliateUrl": "https://www.amazon.com/dp/B0BMWCFB87?tag=justinsfavo09-20",
-    "dateAdded": "2026-03-18"
+    "dateAdded": "2026-03-18",
+    "purchasedDate": "2024-01-01",
+    "justinsScore": 0
   },
   {
     "id": "nioxin-system-2-shampoo",
@@ -327,7 +385,9 @@
     "category": "Personal Care",
     "image": "/images/products/nioxin-system-2-shampoo.png",
     "affiliateUrl": "https://www.amazon.com/dp/B07JVNY2WM?tag=justinsfavo09-20",
-    "dateAdded": "2026-03-18"
+    "dateAdded": "2026-03-18",
+    "purchasedDate": "2024-01-01",
+    "justinsScore": 0
   },
   {
     "id": "klask-magnetic-board-game",
@@ -338,7 +398,9 @@
     "category": "Toys",
     "image": "/images/products/klask-magnetic-board-game.png",
     "affiliateUrl": "https://www.amazon.com/dp/B07PKJZQ9G?tag=justinsfavo09-20",
-    "dateAdded": "2026-03-18"
+    "dateAdded": "2026-03-18",
+    "purchasedDate": "2024-01-01",
+    "justinsScore": 0
   },
   {
     "id": "ember-temperature-control-mug",
@@ -349,7 +411,9 @@
     "category": "Kitchen",
     "image": "/images/products/ember-temperature-control-mug.png",
     "affiliateUrl": "https://www.amazon.com/dp/B07Z5H4TF5?tag=justinsfavo09-20",
-    "dateAdded": "2026-03-18"
+    "dateAdded": "2026-03-18",
+    "purchasedDate": "2024-01-01",
+    "justinsScore": 0
   },
   {
     "id": "anker-nano-power-bank",
@@ -360,7 +424,9 @@
     "category": "Tech",
     "image": "/images/products/anker-nano-power-bank.png",
     "affiliateUrl": "https://www.amazon.com/dp/B0C9X5KSD5?tag=justinsfavo09-20",
-    "dateAdded": "2026-03-18"
+    "dateAdded": "2026-03-18",
+    "purchasedDate": "2024-01-01",
+    "justinsScore": 0
   },
   {
     "id": "goodr-sunglasses",
@@ -371,6 +437,8 @@
     "category": "Everyday Carry",
     "image": "/images/products/goodr-sunglasses.png",
     "affiliateUrl": "https://www.amazon.com/dp/B07JL2VNKR?tag=justinsfavo09-20",
-    "dateAdded": "2026-03-18"
+    "dateAdded": "2026-03-18",
+    "purchasedDate": "2024-01-01",
+    "justinsScore": 0
   }
 ]
