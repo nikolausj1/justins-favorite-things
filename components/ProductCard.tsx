@@ -1,6 +1,5 @@
 import Image from "next/image";
 import { Product } from "@/lib/types";
-import AmazonButton from "./AmazonButton";
 
 interface ProductCardProps {
   product: Product;
@@ -9,7 +8,12 @@ interface ProductCardProps {
 
 export default function ProductCard({ product, priority }: ProductCardProps) {
   return (
-    <article className="bg-white border border-gray-100 flex flex-col transition-all duration-200 hover:-translate-y-1 hover:shadow-lg">
+    <a
+      href={product.affiliateUrl}
+      target="_blank"
+      rel="noopener noreferrer nofollow"
+      className="bg-white border border-gray-100 flex flex-col transition-all duration-200 hover:-translate-y-1 hover:shadow-lg cursor-pointer"
+    >
       <div className="relative aspect-square bg-gray-50 overflow-hidden">
         <Image
           src={product.image}
@@ -33,10 +37,7 @@ export default function ProductCard({ product, priority }: ProductCardProps) {
             {product.personalNote}
           </p>
         </div>
-        <div className="mt-6">
-          <AmazonButton href={product.affiliateUrl} />
-        </div>
       </div>
-    </article>
+    </a>
   );
 }
