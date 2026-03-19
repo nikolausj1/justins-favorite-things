@@ -509,5 +509,112 @@
     "categories": [
       "EDC"
     ]
+  },
+  {
+    "id": "ursa-major-face-wipes",
+    "name": "Ursa Major Essential Face Wipes",
+    "asin": "B00DRHKPHQ",
+    "tagline": "Natural, biodegradable cleansing wipes, individually wrapped, 20 count",
+    "personalNote": "Feels nice to refresh when flying. Beats using the airplane bathroom.",
+    "image": "/images/products/ursa-major-face-wipes.png",
+    "affiliateUrl": "https://www.amazon.com/dp/B00DRHKPHQ?tag=justinsfavo09-20",
+    "dateAdded": "2026-03-18",
+    "purchasedDate": "2023-12-28",
+    "justinsScore": 8,
+    "categories": [
+      "Travel"
+    ]
+  },
+  {
+    "id": "cliq-portable-chair",
+    "name": "CLIQ Portable Chair",
+    "asin": "B07V6MR1R5",
+    "tagline": "Collapses to the size of a water bottle, supports 350 lbs",
+    "personalNote": "These fold up so small I can have 4 in the car and not even notice. Perfect for watching the kids' soccer or baseball games.",
+    "image": "/images/products/cliq-portable-chair.png",
+    "affiliateUrl": "https://www.amazon.com/dp/B07V6MR1R5?tag=justinsfavo09-20",
+    "dateAdded": "2026-03-18",
+    "purchasedDate": "2023-11-27",
+    "justinsScore": 8,
+    "categories": [
+      "Home",
+      "Travel"
+    ]
+  },
+  {
+    "id": "hunter-chelsea-rain-boot",
+    "name": "Hunter Men's Original Chelsea Rain Boot",
+    "asin": "B0CC24DFCS",
+    "tagline": "Waterproof rubber Chelsea boot",
+    "personalNote": "I wear these out to wet soccer games, and then I got to go around Seattle in the rain.",
+    "image": "/images/products/hunter-chelsea-rain-boot.png",
+    "affiliateUrl": "https://www.amazon.com/dp/B0CC24DFCS?tag=justinsfavo09-20",
+    "dateAdded": "2026-03-18",
+    "purchasedDate": "2023-10-22",
+    "justinsScore": 7,
+    "categories": [
+      "Home"
+    ]
+  },
+  {
+    "id": "lil-davinci-art-cabinet",
+    "name": "Li'l Davinci Art Cabinet",
+    "asin": "B000IF7JXS",
+    "tagline": "Front-opening frame that stores up to 50 pieces of 8.5x11 art",
+    "personalNote": "These are great to store my kids' drawings and display them on the wall. I just put the new one on top of the old one, and it clicks right in without having to take it off the wall. I have a few of these in the house.",
+    "image": "/images/products/lil-davinci-art-cabinet.png",
+    "affiliateUrl": "https://www.amazon.com/dp/B000IF7JXS?tag=justinsfavo09-20",
+    "dateAdded": "2026-03-18",
+    "purchasedDate": "2023-08-22",
+    "justinsScore": 7,
+    "categories": [
+      "Home",
+      "Kids"
+    ]
+  },
+  {
+    "id": "cuisinart-griddler",
+    "name": "Cuisinart 6-in-1 Elite Griddler",
+    "asin": "B00ALDPXE4",
+    "tagline": "Electric grill and griddle with 500°F sear, LCD screen, dishwasher-safe plates",
+    "personalNote": "I use this to make smash burgers. I plug it in outside, open it all the way, and smash a one-ounce patty for a double patty burger.",
+    "image": "/images/products/cuisinart-griddler.png",
+    "affiliateUrl": "https://www.amazon.com/dp/B00ALDPXE4?tag=justinsfavo09-20",
+    "dateAdded": "2026-03-18",
+    "purchasedDate": "2023-08-04",
+    "justinsScore": 7,
+    "categories": [
+      "Home"
+    ]
+  },
+  {
+    "id": "the-one-wine-glass",
+    "name": "The One Wine Glass by Andrea Robinson",
+    "asin": "B01LW49S3E",
+    "tagline": "Master Sommelier-designed crystal glass for all red wines, set of 2",
+    "personalNote": "These are my favorite wine glasses. I primarily drink red wine, and these are perfect. Plus I'm a huge fan of Andrea Robinson.",
+    "image": "/images/products/the-one-wine-glass.png",
+    "affiliateUrl": "https://www.amazon.com/dp/B01LW49S3E?tag=justinsfavo09-20",
+    "dateAdded": "2026-03-18",
+    "purchasedDate": "2023-05-30",
+    "justinsScore": 10,
+    "categories": [
+      "Home"
+    ]
+  },
+  {
+    "id": "instant-pot-vortex-air-fryer",
+    "name": "Instant Pot Vortex Plus 6QT Air Fryer",
+    "asin": "B096N28SZP",
+    "tagline": "6-in-1 air fryer with Odor Erase technology, 1700W",
+    "personalNote": "I did some research, and in 2023 this was the best option I thought for the size we needed and the counter space we had. Works great.",
+    "image": "/images/products/instant-pot-vortex-air-fryer.png",
+    "affiliateUrl": "https://www.amazon.com/dp/B096N28SZP?tag=justinsfavo09-20",
+    "dateAdded": "2026-03-18",
+    "purchasedDate": "2023-04-03",
+    "justinsScore": 6,
+    "categories": [
+      "Home"
+    ]
   }
 ]
