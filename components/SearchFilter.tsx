@@ -35,8 +35,9 @@ export default function SearchFilter({
         className="w-full border border-gray-200 px-4 py-3 text-sm text-black placeholder-gray-400 focus:outline-none focus:border-gray-400 transition-colors"
       />
       */}
-      <div className="flex flex-wrap items-center justify-between gap-4">
-        <div className="hidden sm:flex items-center gap-2">
+      <div className="flex flex-wrap items-center justify-center gap-4">
+        {/* Sort buttons hidden until product catalog grows
+        <div className="flex items-center gap-2">
           <span className="text-xs uppercase tracking-widest text-gray-400 mr-1">Sort</span>
           <button onClick={() => onSortChange("score")} className={pill(sortBy === "score")}>
             Score
@@ -45,6 +46,7 @@ export default function SearchFilter({
             Newest
           </button>
         </div>
+        */}
         <div className="flex flex-wrap items-center gap-2">
           <button onClick={() => onCategoryChange(null)} className={pill(activeCategory === null)}>
             All
