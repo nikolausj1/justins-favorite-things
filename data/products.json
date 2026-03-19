@@ -738,5 +738,66 @@
       "Home",
       "Bar"
     ]
+  },
+  {
+    "id": "kruve-imagine-coffee-cups",
+    "name": "KRUVE IMAGINE Coffee Cups",
+    "asin": "B09PD1QHWV",
+    "tagline": "Double-wall borosilicate glass cups, set of two, 8.5 oz",
+    "personalNote": "I love seeing the layers in my flat white or cappuccinos in this glass. Now that I'm drinking coffee, I feel like it deserves a nice glass. Plus, it looks beautiful.",
+    "image": "/images/products/kruve-imagine-coffee-cups.png",
+    "affiliateUrl": "https://www.amazon.com/dp/B09PD1QHWV?tag=justinsfavo09-20",
+    "dateAdded": "2026-03-19",
+    "purchasedDate": "2025-12-01",
+    "justinsScore": 9,
+    "categories": [
+      "Home"
+    ]
+  },
+  {
+    "id": "bugzooka-bug-vacuum",
+    "name": "BugZooka Bug Vacuum",
+    "asin": "B004OHAK5K",
+    "tagline": "Battery-free bug catcher with long nozzle",
+    "personalNote": "This is such a great device to get spiders and other little insects out of the house. Not only is it humane, but it's actually easier to catch them with this than any other way.",
+    "image": "/images/products/bugzooka-bug-vacuum.png",
+    "affiliateUrl": "https://www.amazon.com/dp/B004OHAK5K?tag=justinsfavo09-20",
+    "dateAdded": "2026-03-19",
+    "purchasedDate": "2022-01-01",
+    "justinsScore": 8,
+    "categories": [
+      "Home"
+    ]
+  },
+  {
+    "id": "bambu-lab-p1s",
+    "name": "Bambu Lab P1S 3D Printer",
+    "asin": "B0CHDM8VVZ",
+    "tagline": "Enclosed CoreXY 3D printer with 500mm/s speed and auto bed leveling",
+    "personalNote": "This is my first 3D printer, and I'm so glad it was. So easy to use and makes great prints. Lately, it's been a wand factory creating Harry Potter character wands. I highly recommend getting the AMS so that you can print in multi color.",
+    "image": "/images/products/bambu-lab-p1s.png",
+    "affiliateUrl": "https://www.amazon.com/dp/B0CHDM8VVZ?tag=justinsfavo09-20",
+    "dateAdded": "2026-03-19",
+    "purchasedDate": "2023-12-01",
+    "justinsScore": 4,
+    "categories": [
+      "Tech",
+      "Work"
+    ]
+  },
+  {
+    "id": "polytune-clip-tuner",
+    "name": "TC Electronic PolyTune Clip Tuner",
+    "asin": "B00ZU4G0ZK",
+    "tagline": "Clip-on polyphonic guitar tuner with 108 LED matrix display",
+    "personalNote": "My good friend Marco recommended this to me, and it's been the best tuner I've ever used. I have it clipped on my guitar right now.",
+    "image": "/images/products/polytune-clip-tuner.png",
+    "affiliateUrl": "https://www.amazon.com/dp/B00ZU4G0ZK?tag=justinsfavo09-20",
+    "dateAdded": "2026-03-19",
+    "purchasedDate": "2024-07-01",
+    "justinsScore": 7,
+    "categories": [
+      "Tech"
+    ]
   }
 ]
