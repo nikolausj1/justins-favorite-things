@@ -36,7 +36,7 @@ export default function SearchFilter({
       />
       */}
       <div className="flex flex-wrap items-center justify-between gap-4">
-        <div className="flex items-center gap-2">
+        <div className="hidden sm:flex items-center gap-2">
           <span className="text-xs uppercase tracking-widest text-gray-400 mr-1">Sort</span>
           <button onClick={() => onSortChange("score")} className={pill(sortBy === "score")}>
             Score
