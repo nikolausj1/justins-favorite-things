@@ -257,11 +257,11 @@
   {
     "id": "craighill-wine-key",
     "name": "Craighill Wine Key",
-    "asin": "B0CMV6R14S",
+    "asin": "B0DJHD97NV",
     "tagline": "Premium stainless steel sommelier corkscrew",
     "personalNote": "It's fancy, but it's my favorite wine opener.",
     "image": "/images/products/craighill-wine-key.png",
-    "affiliateUrl": "https://www.amazon.com/dp/B0CMV6R14S?tag=justinsfavo09-20",
+    "affiliateUrl": "https://www.amazon.com/dp/B0DJHD97NV?tag=justinsfavo09-20",
     "dateAdded": "2026-03-18",
     "purchasedDate": "2025-01-01",
     "justinsScore": 8,
@@ -615,6 +615,128 @@
     "justinsScore": 6,
     "categories": [
       "Home"
+    ]
+  },
+  {
+    "id": "chompsaw-cardboard-cutter",
+    "name": "ChompSaw Kid-Safe Cardboard Cutter",
+    "asin": "B0DYRF6D4C",
+    "tagline": "Battery-powered cardboard cutting tool for kids ages 5+",
+    "personalNote": "We use this for any kind of kid construction project. The annual Cardboard Challenge or general maker stuff around the home. Very satisfying to use.",
+    "image": "/images/products/chompsaw-cardboard-cutter.png",
+    "affiliateUrl": "https://www.amazon.com/dp/B0DYRF6D4C?tag=justinsfavo09-20",
+    "dateAdded": "2026-03-18",
+    "purchasedDate": "2023-01-01",
+    "justinsScore": 8,
+    "categories": [
+      "Kids"
+    ]
+  },
+  {
+    "id": "zulay-cast-iron-juicer",
+    "name": "Zulay Cast Iron Citrus Juicer",
+    "asin": "B07D5KRQL7",
+    "tagline": "Heavy-duty manual press for oranges, lemons, and limes",
+    "personalNote": "It's big, but I love it. It makes quick work of limes for my margaritas. Which is important when people are thirsty.",
+    "image": "/images/products/zulay-cast-iron-juicer.png",
+    "affiliateUrl": "https://www.amazon.com/dp/B07D5KRQL7?tag=justinsfavo09-20",
+    "dateAdded": "2026-03-18",
+    "purchasedDate": "2020-01-01",
+    "justinsScore": 9,
+    "categories": [
+      "Home",
+      "Bar"
+    ]
+  },
+  {
+    "id": "shark-wandvac",
+    "name": "Shark WANDVAC Handheld Vacuum",
+    "asin": "B07FX5K4D6",
+    "tagline": "Lightweight cordless handheld vacuum with charging dock",
+    "personalNote": "I like this more than I should, and I use it more than I should, but it's a great little device.",
+    "image": "/images/products/shark-wandvac.png",
+    "affiliateUrl": "https://www.amazon.com/dp/B07FX5K4D6?tag=justinsfavo09-20",
+    "dateAdded": "2026-03-18",
+    "purchasedDate": "2021-12-01",
+    "justinsScore": 7,
+    "categories": [
+      "Home"
+    ]
+  },
+  {
+    "id": "ooni-koda-16-pizza-oven",
+    "name": "Ooni Koda 16 Gas Pizza Oven",
+    "asin": "B0BVW564KY",
+    "tagline": "16-inch natural gas outdoor pizza oven",
+    "personalNote": "This took the coveted space my grill used to be in. So fun making pizzas. Recommend to everyone to try it out.",
+    "image": "/images/products/ooni-koda-16-pizza-oven.png",
+    "affiliateUrl": "https://www.amazon.com/dp/B0BVW564KY?tag=justinsfavo09-20",
+    "dateAdded": "2026-03-18",
+    "purchasedDate": "2022-12-01",
+    "justinsScore": 9,
+    "categories": [
+      "Home"
+    ]
+  },
+  {
+    "id": "genius-square-game",
+    "name": "The Genius Square",
+    "asin": "B07KCDBJTX",
+    "tagline": "Award-winning STEM puzzle game with 60,000+ solutions",
+    "personalNote": "This was such a surprise hit with the family. It's such a creative game, and we love playing it. My six year old crushes everybody.",
+    "image": "/images/products/genius-square-game.png",
+    "affiliateUrl": "https://www.amazon.com/dp/B07KCDBJTX?tag=justinsfavo09-20",
+    "dateAdded": "2026-03-18",
+    "purchasedDate": "2025-12-01",
+    "justinsScore": 9,
+    "categories": [
+      "Kids"
+    ]
+  },
+  {
+    "id": "coway-airmega-air-purifier",
+    "name": "Coway Airmega AP-1512HH Air Purifier",
+    "asin": "B01728NLRG",
+    "tagline": "True HEPA air purifier with air quality monitoring and auto mode",
+    "personalNote": "Have these in the bedrooms to clean up the air.",
+    "image": "/images/products/coway-airmega-air-purifier.png",
+    "affiliateUrl": "https://www.amazon.com/dp/B01728NLRG?tag=justinsfavo09-20",
+    "dateAdded": "2026-03-18",
+    "purchasedDate": "2018-01-01",
+    "justinsScore": 4,
+    "categories": [
+      "Home"
+    ]
+  },
+  {
+    "id": "focusrite-clarett-2pre",
+    "name": "Focusrite Clarett 2Pre USB Audio Interface",
+    "asin": "B0794PMMNB",
+    "tagline": "10-in/4-out USB audio interface for recording and monitoring",
+    "personalNote": "I use this for my headphones, my desk monitors, and to input my electric guitar into my MacBook.",
+    "image": "/images/products/focusrite-clarett-2pre.png",
+    "affiliateUrl": "https://www.amazon.com/dp/B0794PMMNB?tag=justinsfavo09-20",
+    "dateAdded": "2026-03-18",
+    "purchasedDate": "2020-07-01",
+    "justinsScore": 7,
+    "categories": [
+      "Tech"
+    ]
+  },
+  {
+    "id": "manual-bottle-capper",
+    "name": "Manual Twin Lever Bottle Capper",
+    "asin": "B07V4C8492",
+    "tagline": "Hand capper for crown caps, includes 50 caps",
+    "personalNote": "I bottle some of my cocktails to bring to parties and the beach. Espresso martini, Justin's margarita, French 74, and aperol spritz.",
+    "image": "/images/products/manual-bottle-capper.png",
+    "affiliateUrl": "https://www.amazon.com/dp/B07V4C8492?tag=justinsfavo09-20",
+    "dateAdded": "2026-03-18",
+    "purchasedDate": "2012-01-28",
+    "justinsScore": 7,
+    "categories": [
+      "Home",
+      "Bar"
     ]
   }
 ]
