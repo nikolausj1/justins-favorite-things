@@ -576,7 +576,7 @@
     "id": "cuisinart-griddler",
     "name": "Cuisinart 6-in-1 Elite Griddler",
     "asin": "B00ALDPXE4",
-    "tagline": "Electric grill and griddle with 500°F sear, LCD screen, dishwasher-safe plates",
+    "tagline": "Electric grill and griddle with 500\u00b0F sear, LCD screen, dishwasher-safe plates",
     "personalNote": "I use this to make smash burgers. I plug it in outside, open it all the way, and smash a one-ounce patty for a double patty burger.",
     "image": "/images/products/cuisinart-griddler.png",
     "affiliateUrl": "https://www.amazon.com/dp/B00ALDPXE4?tag=justinsfavo09-20",
@@ -798,6 +798,83 @@
     "justinsScore": 7,
     "categories": [
       "Tech"
+    ]
+  },
+  {
+    "id": "lemonsoda-coupe-glasses",
+    "name": "LEMONSODA Ribbed Martini Coupe Glasses",
+    "asin": "B0FDFMKD9P",
+    "tagline": "Elegant ribbed coupe glasses for cocktail night",
+    "personalNote": "These are my go to coupe glasses. I use them for espresso martinis, gin sours, and Pomerantinis (an Aperol spritz with egg white froth). They look nice. Not too retro, not too bland.",
+    "image": "/images/coupe-glasses.png",
+    "affiliateUrl": "https://www.amazon.com/dp/B0FDFMKD9P?tag=justinsfavo09-20",
+    "dateAdded": "2026-03-19",
+    "purchasedDate": "2026-01-28",
+    "justinsScore": 7,
+    "categories": [
+      "Bar",
+      "Home"
+    ]
+  },
+  {
+    "id": "nude-glass-rocks-glasses",
+    "name": "NUDE Glass Big Top Whiskey DOF Glasses",
+    "asin": "B08CPYGJBD",
+    "tagline": "Modern rocks glasses that pair with everything",
+    "personalNote": "These are my new rocks glasses. I use them for margaritas mainly. They pair nicely with the coupe glasses I got.",
+    "image": "/images/rocks-glasses.png",
+    "affiliateUrl": "https://www.amazon.com/dp/B08CPYGJBD?tag=justinsfavo09-20",
+    "dateAdded": "2026-03-19",
+    "purchasedDate": "2026-01-28",
+    "justinsScore": 7,
+    "categories": [
+      "Bar",
+      "Home"
+    ]
+  },
+  {
+    "id": "synology-ds1525-nas",
+    "name": "Synology 5-Bay DiskStation DS1525+",
+    "asin": "B0C8S6ZZVX",
+    "tagline": "Reliable home NAS for media and file storage",
+    "personalNote": "This is what I use to serve my home media and store all of my family's photos and personal files. Never used a NAS before, but Synology has been great. No complaints.",
+    "image": "/images/synology-nas.png",
+    "affiliateUrl": "https://www.amazon.com/dp/B0C8S6ZZVX?tag=justinsfavo09-20",
+    "dateAdded": "2026-03-19",
+    "purchasedDate": "2022-01-01",
+    "justinsScore": 3,
+    "categories": [
+      "Tech"
+    ]
+  },
+  {
+    "id": "kitchenaid-pizza-wheel",
+    "name": "KitchenAid Classic Pizza Wheel",
+    "asin": "B07YP2KL1B",
+    "tagline": "The pizza cutter that actually feels good to use",
+    "personalNote": "I have looked at a lot of different pizza cutters and this big KitchenAid pizza wheel is a delight to use. It's sturdy, quality made, and inexpensive.",
+    "image": "/images/pizza-wheel.png",
+    "affiliateUrl": "https://www.amazon.com/dp/B07YP2KL1B?tag=justinsfavo09-20",
+    "dateAdded": "2026-03-19",
+    "purchasedDate": "2022-04-01",
+    "justinsScore": 6,
+    "categories": [
+      "Home"
+    ]
+  },
+  {
+    "id": "davines-strong-moulding-clay",
+    "name": "Davines This Is A Strong Moulding Clay",
+    "asin": "B01I436MSS",
+    "tagline": "Water-soluble styling clay with strong hold",
+    "personalNote": "I've been using this brand of hair product for a long time. I couldn't imagine using anything else. It's water soluble so it's really easy to wash off your hands.",
+    "image": "/images/moulding-clay.png",
+    "affiliateUrl": "https://www.amazon.com/dp/B01I436MSS?tag=justinsfavo09-20",
+    "dateAdded": "2026-03-19",
+    "purchasedDate": "2020-10-01",
+    "justinsScore": 6,
+    "categories": [
+      "Home"
     ]
   }
 ]
